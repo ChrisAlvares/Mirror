@@ -1,0 +1,26 @@
+{
+  "name": "Mirror",
+  "version": "0.1.0",
+  "description": "A NodeJS Socket library for demoing applications",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisAlvares/Mirror.git"
+  },
+  "keywords": [
+    "demo",
+    "mirror"
+  ],
+  "author": "Chris Alvares <mail@chrisalvares.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisAlvares/Mirror/issues"
+  },
+  "homepage": "https://github.com/ChrisAlvares/Mirror",
+  "dependencies": {
+    "express": "^4.2.0"
+  }
+}

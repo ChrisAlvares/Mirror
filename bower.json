@@ -1,0 +1,20 @@
+{
+  "name": "Mirror",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ChrisAlvares/Mirror",
+  "authors": [
+    "Chris Alvares <mail@chrisalvares.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io-client": "~0.9.16",
+    "jquery": "~2.1.1"
+  }
+}
